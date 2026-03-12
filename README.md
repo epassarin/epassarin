@@ -4,7 +4,7 @@ Formando em Análise e Desenvolvimento de Sistemas
 Professor de Desenvolvimento de Sistemas (SP)
 
 📸 Fotógrafo desde 1997 | 🎨 Designer Gráfico desde 2012
-💻 Java, Python, JS, C++ | FullStack & CyberSec
+💻 HTML, CSS, Python, JS, C++ | Digital Forensic Investigation
 📱 Whats: (19) 99178-6966
 
 Aprendendo todos os dias 🚀
